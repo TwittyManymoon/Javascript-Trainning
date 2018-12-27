@@ -1,9 +1,10 @@
 /* {
-/* Day 1 :
-/* Write a loop that makes seven calls of '#' to create triangle
-/* developed by Twitty 
+// Day 1 :
+//
+// Write a loop that makes seven calls of '#' to create triangle
+//
+// ::: developed by Twitty Manymoon :::
 }*/
-
 
 var i, j = 0;
 
