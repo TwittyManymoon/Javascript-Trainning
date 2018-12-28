@@ -1,5 +1,5 @@
 /* {
-// Day 1 :
+// Day 2 :
 // 
 // Min function - just a basic function to find minimum between 2 arguments
 //
